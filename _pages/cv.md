@@ -29,6 +29,8 @@ Previous work
 
 Publications
 ======
+find me on [ADS](https://ui.adsabs.harvard.edu/user/libraries/6Dr19pEsQzS2cwhLffJxlg "ADS").
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -45,4 +47,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Click [here](http://aarondavidschneider.github.io/files/CV.pdf "CV") to download a pdf version of my CV or visit my [ADS](https://ui.adsabs.harvard.edu/user/libraries/6Dr19pEsQzS2cwhLffJxlg "ADS") library.
+Click [here](http://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.
