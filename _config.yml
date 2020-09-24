@@ -89,7 +89,7 @@ author:
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ui.adsabs.harvard.edu/user/libraries/6Dr19pEsQzS2cwhLffJxlg"
+  uri              : "https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   bitbucket        :
   codepen          :
   dribbble         :

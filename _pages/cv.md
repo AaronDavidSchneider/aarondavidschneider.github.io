@@ -29,7 +29,7 @@ Previous work
 
 Publications
 ======
-find me on [ADS](https://ui.adsabs.harvard.edu/user/libraries/6Dr19pEsQzS2cwhLffJxlg "ADS").
+find me on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0 "ADS").
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
