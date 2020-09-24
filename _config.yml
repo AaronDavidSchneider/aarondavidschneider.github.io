@@ -83,7 +83,7 @@ author:
   name             : "Aaron Schneider"
   avatar           : "profile.png"
   bio              : "PhD candidate in Astrophysics"
-  location         : ""
+  location         : 
   employer         : "Kopenhagen University"
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aaron-david-schneider/"
+  linkedin         : "https://www.linkedin.com/in/aaron-david-schneider"
   orcid            : "https://orcid.org/0000-0002-1448-0303"
   pinterest        :
   soundcloud       :
