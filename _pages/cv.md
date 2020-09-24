@@ -44,3 +44,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Click [here](http://aarondavidschneider.github.io/files/CV.pdf "CV") to download a pdf version of my CV or visit my [ADS](https://ui.adsabs.harvard.edu/user/libraries/6Dr19pEsQzS2cwhLffJxlg "ADS") library.
