@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Heidelberg University, 2018
+* M.S. in Physics, Heidelberg University, 2020
+* Ph.D in Astrophysics, Kopenhagen University & KULeuven, 2023 (expected)
 
-Work experience
+Previous work
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018: Bachelor thesis
+  * Heidelberg University
+  * Looking at surface waves in protoplanetary disks due to stellar luminosity outbursts
+  * Supervisor: Prof. Dr. Cornelis Dullemond
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2019 - Fall 2020: Master thesis
+  * Max Planck Institute of Astronomy
+  * Looking at the heavy element content of hot gas giants due to the accretion of pebbles, planetesimals and gas
+  * Supervisor: Dr. Bertram Bitsch
 
 Publications
 ======
@@ -53,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

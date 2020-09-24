@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal webpage of Aaron David Schneider
+I am a PhD candidate in the CHAMELEON network (https://chameleon.wp.st-andrews.ac.uk) trying to connect the atmosphere and the interior in extrasolar gas planets.
