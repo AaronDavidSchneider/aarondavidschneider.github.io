@@ -1,11 +1,11 @@
 ---
 title: "Surface waves in protoplanetary disks induced by outbursts: Concentric rings in scattered light"
 collection: publications
-permalink: "https://ui.adsabs.harvard.edu/abs/2018A%26A...617L...7S/abstract"
-excerpt: 'This paper is about my bachelor thesis project: Surface waves induces by outbursts'
+permalink: "/talks/2018-09-bachelor"
+excerpt: 'Paper about my bachelor thesis project: Surface waves induces by outbursts.'
 date: 2018-09-28
 venue: 'Astronomy & Astrophysics'
-paperurl: 'https://www.aanda.org/articles/aa/pdf/2018/09/aa33965-18.pdf'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2018A%26A...617L...7S/abstract'
 citation: 
 ---
 Context. Vertically hydrostatic protoplanetary disk models are based on the assumption that the main heating source, stellar irradiation, does not vary much with time. However, it is known that accreting young stars are variable sources of radiation. This is particularly evident for outbursting sources such as EX Lupi and FU Orionis stars. 
@@ -14,4 +14,4 @@ Methods: We employ the 3D FARGOCA radiation-hydrodynamics code, in polar coordin
 Results: We find that, depending on the amplitude of the outbursts, the vertical structure of the disk can become highly dynamic, featuring circular surface waves of considerable amplitude. These "hills" and "valleys" on the disk's surface show up in the scattered light images as bright and dark concentric rings. Initially these rings are small and act as standing waves, but they subsequently lead to outward propagating waves, like the waves produced by a stone thrown into a pond. These waves continue long after the actual outburst has died out. 
 Conclusions: Single, periodic, or quasiperiodic outbursts of the innermost regions of protoplanetary disks will necessarily lead to wavy structures on the surface of these disks at all radii. We propose that some of the multi-ringed structures seen in optical/infrared images of several protoplanetary disks may have their origin in outbursts that occurred decades or centuries ago. However, the multiple rings seen at (sub-)millimeter wavelengths in HL Tau and several other disks are not expected to be related to such waves.
 
-[Download paper here](https://www.aanda.org/articles/aa/pdf/2018/09/aa33965-18.pdf)
+[View on ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...617L...7S/abstract "ads")
