@@ -89,7 +89,8 @@ author:
   googlescholar    : 
   email            : "aaron.david.schneider@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  ads              : "https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "aaron-david-schneider"
   orcid            : "https://orcid.org/0000-0002-1448-0303"
   pinterest        :
   soundcloud       :
