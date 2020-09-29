@@ -6,7 +6,7 @@ excerpt: 'Paper about my bachelor thesis project.'
 date: 2018-09-28
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2018A%26A...617L...7S/abstract'
-citation: 
+citation: Schneider et al. (2018)
 ---
 Context. Vertically hydrostatic protoplanetary disk models are based on the assumption that the main heating source, stellar irradiation, does not vary much with time. However, it is known that accreting young stars are variable sources of radiation. This is particularly evident for outbursting sources such as EX Lupi and FU Orionis stars. 
 Aims: We investigate how such outbursts affect the vertical structure of the outer regions of the protoplanetary disk, in particular their appearance in scattered light at optical and near-infrared wavelengths. 
