@@ -1,7 +1,7 @@
 ---
 title: "Surface waves in protoplanetary disks induced by outbursts: Concentric rings in scattered light"
 collection: publications
-permalink: "/talks/2018-09-bachelor"
+permalink: "/publications/2018-09-bachelor"
 excerpt: 'Paper about my bachelor thesis project.'
 date: 2018-09-28
 venue: 'Astronomy & Astrophysics'
