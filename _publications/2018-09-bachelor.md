@@ -2,7 +2,7 @@
 title: "Surface waves in protoplanetary disks induced by outbursts: Concentric rings in scattered light"
 collection: publications
 permalink: "/publications/2018-09-bachelor"
-excerpt: 'Paper about my bachelor thesis project.'
+excerpt: 'Paper about EXOR and FUOR outbursts and their implications on the vertical structure of the gas phase of a protoplanetary disk.'
 date: 2018-09-28
 venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2018A%26A...617L...7S/abstract'
