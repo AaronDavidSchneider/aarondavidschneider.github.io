@@ -16,9 +16,9 @@ The goal of this project is to improve coupling between the interior of exoplane
 
 In my spare time I occasionally contribute to [homeassistant](https://www.home-assistant.io "homeassistant") and the components [SonosAlarm](https://github.com/AaronDavidSchneider/SonosAlarm "SonosAlarm") and [FRITZ!Box Tools](https://github.com/mammuth/ha-fritzbox-tools "FRITZ!Box Tools").
 
-![CHAMELEON](images/Chameleon.jpg =150x)
-![EU](images/EU.jpg =150x)
-![MSCA](images/MSCA.png =150x)
-![MPIA](images/MPIA.jpg =150x)
-![UCPH](images/UCPH.jpg =150x)
-![KULeuven](images/KULeuven.png =150x)
+<img src="images/Chameleon.jpg" alt="CHAMELEON" width="150"/>
+<img src="images/EU.jpg" alt="EU" width="150"/>
+<img src="images/MSCA.png" alt="MSCA" width="150"/>
+<img src="images/MPIA.jpg" alt="MPIA" width="150"/>
+<img src="images/UCPH.jpg" alt="UCPH" width="150"/>
+<img src="images/KULeuven.png" alt="KULeuven" width="150"/>
