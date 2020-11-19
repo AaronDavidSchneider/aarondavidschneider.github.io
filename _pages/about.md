@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,3 +15,10 @@ The first half of my thesis will be in Leuven (Belgium) working together with Le
 The goal of this project is to improve coupling between the interior of exoplanets and the observable 3D atmosphere to understand when deep dynamic effects yield observable effects  (i.e. spectra, colours etc). It has not yet been investigated if these deep effects on the 3D atmosphere structure can also affect the cooling rate of a thermally evolving gas planet. If the interior interaction with the 3D atmosphere has an impact, it will change the planet's long-term planetary evolution from its formation until today.
 
 In my spare time I occasionally contribute to [homeassistant](https://www.home-assistant.io "homeassistant") and the components [SonosAlarm](https://github.com/AaronDavidSchneider/SonosAlarm "SonosAlarm") and [FRITZ!Box Tools](https://github.com/mammuth/ha-fritzbox-tools "FRITZ!Box Tools").
+
+![CHAMELEON](images/Chameleon.jpg)
+![EU](images/EU.jpg)
+![MSCA](images/MSCA.png)
+![MPIA](images/MPIA.png)
+![UCPH](images/UCPH.jpg)
+![KULeuven](images/KULeuven.png)
