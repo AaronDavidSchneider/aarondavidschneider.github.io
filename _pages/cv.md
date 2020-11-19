@@ -47,4 +47,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Click [here](http://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.
+Click [here](https://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.

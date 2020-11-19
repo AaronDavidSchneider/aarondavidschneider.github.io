@@ -11,7 +11,7 @@ title                    : "Aaron David Schneider"
 title_separator          : "-"
 name                     : &name "Aaron David Schneider"
 description              : &description "Astrophysicist"
-url                      : https://aarondavidschneider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aaron-schneider.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aarondavidschneider/aarondavidschneider.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,10 +83,10 @@ author:
   name             : "Aaron Schneider"
   avatar           : "Aaron_Circle.JPG"
   bio              : "PhD candidate in Astrophysics"
-  location         : 
+  location         :
   employer         : "Kopenhagen University"
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            : "aaron.david.schneider@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   ads              : "https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
@@ -107,7 +107,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1448-0303"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # https://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
@@ -249,14 +249,14 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -305,7 +305,7 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
