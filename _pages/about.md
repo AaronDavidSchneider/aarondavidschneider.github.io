@@ -22,3 +22,5 @@ In my spare time I occasionally contribute to [homeassistant](https://www.home-a
 <a href="https://www.mpia.de"><img src="images/MPIA.jpg" alt="MPIA" width="30%" height="100"/></a>
 <a href="https://www.ku.dk"><img src="images/UCPH.jpg" alt="UCPH" width="30%"/></a>
 <a href="https://www.kuleuven.be/kuleuven/"><img src="images/KULeuven.png" alt="KULeuven" width="30%"/></a>
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 860470.
