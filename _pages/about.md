@@ -23,4 +23,4 @@ In my spare time I occasionally contribute to [homeassistant](https://www.home-a
 <a href="https://www.ku.dk"><img src="images/UCPH.jpg" alt="UCPH" width="30%"/></a>
 <a href="https://www.kuleuven.be/kuleuven/"><img src="images/KULeuven.png" alt="KULeuven" width="30%"/></a>
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 860470.
+<p class="text-muted"><small>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 860470.</small></p>
