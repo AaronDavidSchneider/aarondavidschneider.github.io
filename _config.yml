@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "de-DE"
 title                    : "Aaron David Schneider"
 title_separator          : "-"
 name                     : &name "Aaron David Schneider"
@@ -14,7 +14,7 @@ description              : &description "Astrophysicist"
 url                      : https://aaron-schneider.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aarondavidschneider/aarondavidschneider.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Aaron_Circle.JPG" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -84,7 +84,7 @@ author:
   avatar           : "Aaron_Circle.JPG"
   bio              : "PhD candidate in Astrophysics"
   location         :
-  employer         : "Kopenhagen University"
+  employer         : "UCPH & KULeuven"
   pubmed           :
   googlescholar    :
   email            : "aaron.david.schneider@gmail.com"
