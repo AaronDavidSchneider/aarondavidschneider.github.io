@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Marie Sklodowska-Curie early stage researcher in astrophysics in the [CHAMELEON](https://chameleon.wp.st-andrews.ac.uk "CHAMELEON")<sup>1</sup> network trying to connect the atmosphere and the interior in extrasolar gas planets.
+I am a Marie Sklodowska-Curie early stage researcher in astronomy and astrophysics in the [CHAMELEON](https://chameleon.wp.st-andrews.ac.uk "CHAMELEON")<sup>1</sup> network trying to connect the atmosphere and the interior of extrasolar gas planets.
 
 The first half of my PhD is in Leuven (Belgium) working together with Leen Decin and Ludmila Carone. The second part of my PhD will be in København (Denmark), working together with Uffe Gråe Jørgensen.
 
