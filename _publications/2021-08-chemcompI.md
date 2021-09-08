@@ -4,6 +4,7 @@ collection: publications
 permalink: "/publications/2021-08-chemcompI"
 excerpt: 'Paper about the heavy element content of planets formed by the accretion of pebbles and gas accretion.'
 date: 2021-08-29
+venue: 'Astronomy & Astrophysics'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2021arXiv210513267S/abstract'
 citation: Schneider & Bitsch (2021)
 ---
