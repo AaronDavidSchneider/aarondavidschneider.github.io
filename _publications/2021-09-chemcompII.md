@@ -4,7 +4,7 @@ collection: publications
 permalink: "/publications/2021-09-chemcompII"
 excerpt: 'Paper about refractories and volatiles in the atmosphere of giant planets.'
 date: 2021-09-08
-paperurl:
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2021arXiv210903589S/abstract'
 venue: 'Astronomy & Astrophysics'
 citation: Schneider & Bitsch (2021)
 ---
