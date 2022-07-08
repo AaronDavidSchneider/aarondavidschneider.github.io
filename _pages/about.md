@@ -10,11 +10,14 @@ redirect_from:
 
 I am a Marie Sklodowska-Curie early stage researcher in astronomy and astrophysics in the [CHAMELEON](https://chameleon.wp.st-andrews.ac.uk "CHAMELEON")<sup>1</sup> network trying to connect the atmosphere and the interior of extrasolar gas planets.
 
-The first half of my PhD is in Leuven (Belgium) working together with Leen Decin and Ludmila Carone. The second part of my PhD will be in København (Denmark), working together with Uffe Gråe Jørgensen.
+I absolved the first half of my PhD in Leuven (Belgium) working together with Leen Decin and Ludmila Carone. I am currently doing the second part of my PhD in København (Denmark), working together with Uffe Gråe Jørgensen.
 
 The goal of this project is to improve coupling between the interior of exoplanets and the observable 3D atmosphere to understand when deep dynamic effects yield observable effects  (i.e. spectra, colours etc). It has not yet been investigated if these deep effects on the 3D atmosphere structure can also affect the cooling rate of a thermally evolving gas planet. If the interior interaction with the 3D atmosphere has an impact, it will change the planet's long-term planetary evolution from its formation until today.
 
-In my spare time I occasionally contribute to [homeassistant](https://www.home-assistant.io "homeassistant") and the components [SonosAlarm](https://github.com/AaronDavidSchneider/SonosAlarm "SonosAlarm") and [FRITZ!Box Tools](https://github.com/mammuth/ha-fritzbox-tools "FRITZ!Box Tools").
+<img src="images/zonal_mean_WASP-43b.png" alt="Zonal Mean of WASP-43b" width="33%"/>
+<img src="images/temp_WASP-43b.png" alt="temperature Maps of WASP-43b" width="66%"/>
+
+In my spare time I occasionally contribute to [homeassistant](https://www.home-assistant.io "homeassistant") and the components [SonosAlarm](https://github.com/AaronDavidSchneider/SonosAlarm "SonosAlarm") and [FRITZ!Box Tools](https://github.com/mammuth/ha-fritzbox-tools "FRITZ!Box Tools") or work on extensions for [raycast](https://www.raycast.com/), such as [bibmanager](https://www.raycast.com/aaronschneider/bibmanager).
 
 <a href="https://chameleon.wp.st-andrews.ac.uk"><img src="images/Chameleon.jpg" alt="CHAMELEON" width="30%"/></a>
 <a href="https://ec.europa.eu/"><img src="images/EU.jpg" alt="EU" width="30%"/></a>
