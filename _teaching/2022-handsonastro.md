@@ -8,5 +8,5 @@ date: 2022-08-01
 location: "Hanau, Germany"
 ---
 
-I was invited to Coprepare and cotutor two sessions of the summerschool.
-In the planet formation session with Bertram Bitsch, I helped students to develop a simple planetformationmodel. In the session about exoplanet climates with Ludmila Carone, I assisted students to run and interpret climate model data data with MITgcm.
+I was invited to co-prepare and co-tutor two sessions of the summerschool.
+In the planet formation session with Bertram Bitsch, I helped students to develop a simple planetformationmodel. In the session about exoplanet climates with Ludmila Carone, I assisted students to run a climate model (MITgcm) and interpret climate model data.
