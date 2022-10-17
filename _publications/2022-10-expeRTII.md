@@ -4,7 +4,7 @@ collection: publications
 permalink: "/publications/2022-10-expeRTII"
 excerpt: 'A paper that argues that we do not find any downward advection of heat in a longterm GCM study.'
 date: 2022-10-01
-paperurl: 'https://ui.adsabs.harvard.edu/abs/2022arXiv221001466S'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2022A%26A...666L..11S/abstract'
 venue: 'Astronomy & Astrophysics'
 citation: Schneider et al. (2022)
 ---
