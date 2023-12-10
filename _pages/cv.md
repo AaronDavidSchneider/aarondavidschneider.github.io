@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](https://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.
+
 Education
 ======
 * B.S. in Physics, Heidelberg University, 2018
 * M.S. in Physics, Heidelberg University, 2020
-* Ph.D in Astrophysics, Kopenhagen University & KULeuven, 2023 (expected)
+* Ph.D in Astrophysics, Kopenhagen University & KULeuven, 2023
 
 Previous work
 ======
@@ -30,21 +32,3 @@ Previous work
 Publications
 ======
 find me on [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2F6Dr19pEsQzS2cwhLffJxlg)&sort=date%20desc%2C%20bibcode%20desc&p_=0 "ADS").
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Click [here](https://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.

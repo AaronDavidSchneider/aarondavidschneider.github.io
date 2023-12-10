@@ -1,0 +1,11 @@
+---
+title: "Harnessing machine learning for accurate treatment of overlapping opacity species in general circulation models"
+collection: publications
+permalink: "/publications/2023-12-expeRT-mix"
+excerpt: 'Accurate and fast opacity mixing in general circulation models using machine learning.'
+date: 2023-12-01
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2023arXiv231100775S/abstract'
+venue: 'Astronomy & Astrophysics'
+citation: Schneider et al. (2023)
+---
+To understand high precision observations of exoplanets and brown dwarfs, we need detailed and complex general circulation models (GCMs) that incorporate hydrodynamics, chemistry, and radiation. For this study, we specifically examined the coupling between chemistry and radiation in GCMs and compared different methods for the mixing of opacities of different chemical species in the correlated-k assumption, when equilibrium chemistry cannot be assumed. We propose a fast machine learning method based on DeepSets (DS), which effectively combines individual correlated-k opacities (k-tables). We evaluated the DS method alongside other published methods such as adaptive equivalent extinction (AEE) and random overlap with rebinning and resorting (RORR). We integrated these mixing methods into our GCM (expeRT/MITgcm) and assessed their accuracy and performance for the example of the hot Jupiter HD~209458 b. Our findings indicate that the DS method is both accurate and efficient for GCM usage, whereas RORR is too slow. Additionally, we observed that the accuracy of AEE depends on its specific implementation and may introduce numerical issues in achieving radiative transfer solution convergence. We then applied the DS mixing method in a simplified chemical disequilibrium situation, where we modeled the rainout of TiO and VO, and confirmed that the rainout of TiO and VO would hinder the formation of a stratosphere. To further expedite the development of consistent disequilibrium chemistry calculations in GCMs, we provide documentation and code for coupling the DS mixing method with correlated-k radiative transfer solvers. The DS method has been extensively tested to be accurate enough for GCMs; however, other methods might be needed for accelerating atmospheric retrievals.
