@@ -26,7 +26,7 @@ During my PhD, I integrated an precise and efficient radiative transfer solver w
 
 Furthermore, I benchmarked various statistical opacity approximations and developed a machine learning algorithm to effectively address the computational problem of overlapping molecular species in gas radiative transfer. The DeepSet mixing algorithm that I developed is both efficient and accurate and easy to couple to radiative hydrodynamic models. Read more about it in the publication ([Schneider et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv231100775S)) or read about the code (its open source!): [opacmixer](https://github.com/AaronDavidSchneider/opacmixer, "Link to Publication"). 
 
-<img src="images/DS.jpeg" alt="DeepSet mixing of opacity species" width="50%"/>
+<img src="images/DS.jpeg" alt="DeepSet mixing of opacity species" width="100%"/>
 
 Software development
 ======
