@@ -19,12 +19,12 @@ During my master thesis, I developed a global planet formation code [(chemcomp)]
 
 Planetary atmospheres
 ======
-During my PhD, I integrated precise and efficient radiative transfer solver with a general circulation model (GCM) to investigate the relationship between Hot Jupiter radius inflation and atmospheric dynamics. Hot Jupiters are gas giant planets that are heavily exposed to radiation and have winds reaching a few km/s. A comprehensive understanding of these planets necessitates the use of consistent 3D radiative hydrodynamic modeling.
+During my PhD, I integrated an precise and efficient radiative transfer solver with a general circulation model (GCM) to investigate the relationship between Hot Jupiter radius inflation and atmospheric dynamics. Hot Jupiters are gas giant planets that are heavily exposed to radiation and have winds reaching a few km/s. A comprehensive understanding of these planets necessitates the use of consistent 3D radiative hydrodynamic modeling.
 
 <img src="images/zonal_mean_WASP-43b.png" alt="Zonal Mean of WASP-43b" width="33%"/>
-<img src="images/temp_WASP-43b.png" alt="temperature Maps of WASP-43b" width="66%"/><\br>
+<img src="images/temp_WASP-43b.png" alt="temperature Maps of WASP-43b" width="66%"/>
 
-I benchmarked various statistical opacity approximations and developed a machine learning algorithm to effectively address the problem of overlapping molecular species in gas radiative transfer.
+Furthermore, I benchmarked various statistical opacity approximations and developed a machine learning algorithm to effectively address the computational problem of overlapping molecular species in gas radiative transfer. The DeepSet mixing algorithm that I developed is both efficient and accurate and easy to couple to radiative hydrodynamic models. Read more about it in the publication ([Schneider et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv231100775S)) or read about the code (its open source!): [opacmixer](https://github.com/AaronDavidSchneider/opacmixer, "Link to Publication"). 
 
 <img src="images/DS.jpeg" alt="DeepSet mixing of opacity species" width="50%"/>
 
