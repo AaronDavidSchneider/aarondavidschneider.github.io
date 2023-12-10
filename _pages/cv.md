@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Click [here](https://aarondavidschneider.github.io/files/cv.pdf "CV") to download a pdf version of my CV.
 
 Education
 ======
 * B.S. in Physics, Heidelberg University, 2018
 * M.S. in Physics, Heidelberg University, 2020
-* Ph.D in Astrophysics, Kopenhagen University & KULeuven, 2023
+* Ph.D in Astrophysics, Copenhagen University & KULeuven, 2023
 
 Previous work
 ======
